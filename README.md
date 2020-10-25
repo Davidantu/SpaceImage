@@ -1,4 +1,4 @@
-#Space Image
+# Space Image
 Author: David Antunez
 
 This program generates the day of the week in which you were born given your birthday and the astrology picture of the day associated with that day. Zeller's congruence 
