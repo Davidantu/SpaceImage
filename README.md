@@ -7,4 +7,4 @@ algorithm is used to calculate the day of the week, and NASA's APOD API is used 
 ## User Interface
 ![Space Image](https://github.com/Davidantu/SpaceImage/blob/main/GUI.png)
 ## April 4, 2013
-![Image of Saturn](https://github.com/Davidantu/SpaceImage/blob/main/example.png)
+![M64: The Black Eye Galaxy](https://github.com/Davidantu/SpaceImage/blob/main/Example.png)
