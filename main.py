@@ -76,7 +76,7 @@ class Space:
 
         Button(root, text='Submit', width=10, command = close_window).pack(side=BOTTOM)
 
-        nasa = ImageTk.PhotoImage(file="nasa-logo-web-rgb.png")
+        nasa = ImageTk.PhotoImage(file="Images/nasa-logo-web-rgb.png")
         panel = Label(root, image=nasa)
         panel.pack(padx=10, pady=80)
         root.mainloop()
